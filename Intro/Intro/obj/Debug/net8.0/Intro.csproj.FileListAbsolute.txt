@@ -1,0 +1,14 @@
+D:\source\repos\Intro\Intro\bin\Debug\net8.0\Intro.exe
+D:\source\repos\Intro\Intro\bin\Debug\net8.0\Intro.deps.json
+D:\source\repos\Intro\Intro\bin\Debug\net8.0\Intro.runtimeconfig.json
+D:\source\repos\Intro\Intro\bin\Debug\net8.0\Intro.dll
+D:\source\repos\Intro\Intro\bin\Debug\net8.0\Intro.pdb
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.AssemblyInfoInputs.cache
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.AssemblyInfo.cs
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.csproj.CoreCompileInputs.cache
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.dll
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\refint\Intro.dll
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.pdb
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\Intro.genruntimeconfig.cache
+D:\source\repos\Intro\Intro\obj\Debug\net8.0\ref\Intro.dll
